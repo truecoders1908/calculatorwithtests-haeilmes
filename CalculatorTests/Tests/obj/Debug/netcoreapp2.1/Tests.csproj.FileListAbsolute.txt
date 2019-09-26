@@ -1,0 +1,4 @@
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\Tests\bin\Debug\netcoreapp2.1\CalculatorTests.dll
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs

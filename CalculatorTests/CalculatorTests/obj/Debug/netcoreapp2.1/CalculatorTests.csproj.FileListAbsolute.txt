@@ -1,0 +1,8 @@
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\CalculatorTests\bin\Debug\netcoreapp2.1\CalculatorTests.deps.json
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\CalculatorTests\bin\Debug\netcoreapp2.1\CalculatorTests.runtimeconfig.json
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\CalculatorTests\bin\Debug\netcoreapp2.1\CalculatorTests.runtimeconfig.dev.json
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\CalculatorTests\bin\Debug\netcoreapp2.1\CalculatorTests.dll
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\CalculatorTests\obj\Debug\netcoreapp2.1\CalculatorTests.csprojAssemblyReference.cache
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\CalculatorTests\obj\Debug\netcoreapp2.1\CalculatorTests.csproj.CoreCompileInputs.cache
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\CalculatorTests\obj\Debug\netcoreapp2.1\CalculatorTests.AssemblyInfoInputs.cache
+C:\Users\Mom\Documents\TrueCoders\Assignments\CalculatorWithTests\calculatorwithtests-haeilmes\CalculatorTests\CalculatorTests\obj\Debug\netcoreapp2.1\CalculatorTests.AssemblyInfo.cs

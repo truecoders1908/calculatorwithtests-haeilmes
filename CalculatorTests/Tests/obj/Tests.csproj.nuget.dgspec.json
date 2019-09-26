@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\Tests\\Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\CalculatorTests\\CalculatorTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\CalculatorTests\\CalculatorTests.csproj",
+        "projectName": "CalculatorTests",
+        "projectPath": "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\CalculatorTests\\CalculatorTests.csproj",
+        "packagesPath": "C:\\Users\\Mom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\CalculatorTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\Tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\Mom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\CalculatorTests\\CalculatorTests.csproj": {
+                "projectPath": "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\CalculatorWithTests\\calculatorwithtests-haeilmes\\CalculatorTests\\CalculatorTests\\CalculatorTests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
